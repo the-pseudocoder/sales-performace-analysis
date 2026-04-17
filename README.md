@@ -1,5 +1,6 @@
 # sales-performace-analysis
 Analysis of the performance and profitability of a company from their sales data
+
 It Answers some important questions like: 
 * Which region is strongest and why?
 * Which product drives profit
